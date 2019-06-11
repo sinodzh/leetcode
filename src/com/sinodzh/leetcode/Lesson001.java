@@ -1,5 +1,5 @@
 
-package com.sinodzh.leetcode
+package com.sinodzh.leetcode;
 
 public class Lesson001 {
 
